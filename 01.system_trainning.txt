@@ -171,7 +171,7 @@ Bonus theo doanh số cả năm:
 85%-90% doanh số năm: Thưởng = Tổng doanh số đạt x 2%.
 91%-100% doanh số năm: Thưởng = Tổng doanh số đạt x 3%.
 Trên 100% doanh số năm: Thưởng = Tổng doanh số đạt x 5%.
-Dưới 85% doanh số năm: Không nhận thưởng.}
+Dưới 85% doanh số năm: Không nhận thưởng. Ngồi ra chị Thy không được thưởng thêm gì khác}
 
 {KPI của các sale khác :Target Doanh số năm 2025 và Tháng 1, tháng 2 năm 2026. 
 Tháng 3: 150,000,000
