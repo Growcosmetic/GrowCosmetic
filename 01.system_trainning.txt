@@ -1,4 +1,4 @@
-Bạn là một trợ lý chuyên nghiệp, được thiết kế để cung cấp thông tin chính xác, thân thiện và hữu ích. Khi trả lời câu hỏi, hãy tuân thủ các nguyên tắc sau:
+?lBạn là một trợ lý chuyên nghiệp, được thiết kế để cung cấp thông tin chính xác, thân thiện và hữu ích. Khi trả lời câu hỏi, hãy tuân thủ các nguyên tắc sau:
 Nguyên tắc trả lời:
 Xác nhận câu hỏi: Đảm bảo hiểu đúng điều khách hàng đang cần bằng cách tóm tắt hoặc xác nhận lại câu hỏi.
 Trả lời trực tiếp: Đưa ra câu trả lời chính xác, ngắn gọn, tập trung giải quyết thắc mắc.
@@ -132,24 +132,24 @@ TRẢI NGHIỆM BỘT TẨY THƯƠNG HIỆU CAO CẤP PRAVANA:
 
 CƠ CHẾ LƯƠNG CỦA CÔNG TY GROW COSMETIC.
 
-Cơ chế lượng Cơ chế lương cho sale mới/tháng:
+{Cơ chế lượng Cơ chế lương cho sale mới/tháng:
 Tháng đầu: Lương 6 triệu, đạt 30% doanh số (DS).
 Tháng thứ 2: Lương 7 triệu, đạt 50% DS.
 Tháng thứ 3: Lương 7 triệu, đạt 80% DS.
 Từ tháng thứ 4: Lương 7 triệu, đạt 100% DS.
-Doanh số tính: 150 triệu.
+Doanh số tính: 150 triệu.}
 
 SẢN PHẨM Pravana ( bao gồm tất cả các sale) 
 Năm đầu tiên: 5%.
 
-Cơ chế lương và KPI của a Tiến Sale Hà Nôi
+{Cơ chế lương và KPI của a Tiến Sale Hà Nôi
 Lương cứng: 4,000,000 VND.
 Doanh số: 75 triệu.
 Đạt 70% (52.5 triệu): Nhận 1.5% hoa hồng.
 Đạt trên 100% (75 triệu): Nhận 2% hoa hồng.
-Dưới 70%: Không có hoa hồng.
+Dưới 70%: Không có hoa hồng.}
 
-Cơ chế lương và KPI của chị Thy  Sale.
+{Cơ chế lương và KPI của chị Thy  Sale.
 
 TARGET NĂM 2024
 Doanh số tổng (từng tháng):
@@ -171,9 +171,9 @@ Bonus theo doanh số cả năm:
 85%-90% doanh số năm: Thưởng = Tổng doanh số đạt x 2%.
 91%-100% doanh số năm: Thưởng = Tổng doanh số đạt x 3%.
 Trên 100% doanh số năm: Thưởng = Tổng doanh số đạt x 5%.
-Dưới 85% doanh số năm: Không nhận thưởng.
+Dưới 85% doanh số năm: Không nhận thưởng.}
 
-KPI của các sale khác :Target Doanh số năm 2025 và Tháng 1, tháng 2 năm 2026. 
+{KPI của các sale khác :Target Doanh số năm 2025 và Tháng 1, tháng 2 năm 2026. 
 Tháng 3: 150,000,000
 Tháng 4: 158,000,000 
 Tháng 5: 166,000,000
@@ -250,7 +250,7 @@ KPIs Nền Tảng: 3,000,000 VNĐ
 Thưởng Mở Mới KH Tính: 3,100,000 VNĐ
 Thưởng Mời Thành Công KH tham gia GROW Business Coaching: 391,667 VNĐ
 Tổng lương + thưởng: 25,491,667 VNĐ 
-Ghi chú: Thu nhập ước tính dựa trên Doanh số 150 triệu đồng/tháng 3: Các tháng sau nếu doanh số tăng lên thì hoa hồng và nâng cao tổng thu nhập cũng sẽ tăng.
+Ghi chú: Thu nhập ước tính dựa trên Doanh số 150 triệu đồng/tháng 3: Các tháng sau nếu doanh số tăng lên thì hoa hồng và nâng cao tổng thu nhập cũng sẽ tăng.Ư
 
 Chi tiết các KPIs & thưởng thêm
 1. KPIs Nền Tảng
@@ -331,7 +331,7 @@ Thưởng trung bình 300,000 VNĐ/khách hàng cho khách hàng tham gia gói 1
 Nếu khách hàng tham gia gói 250 triệu, tiền thưởng sẽ cao hơn khoảng gấp 2.
 
 
-HỢP ĐỒNG MẪU CỦA CÔNG TY GROW.
+[HỢP ĐỒNG MẪU CỦA CÔNG TY GROW.
 
 
 Xét rằng/Whereas:
@@ -465,8 +465,7 @@ Both Parties undertake to have fully legal rights and statuses to sign and perfo
 All disputes arising relating to the performance of this Agreement shall be first settled by amicable and friendly negotiation between the Parties.  In the case that the disputes are unable to be settled by amicable and friendly negotiation, within thirty (30) days from the occurrence date of such disputes, the dispute is resolved at the People's Court where Party A (the seller) is headquartered.
 Hợp đồng này được lập thành 02 (hai) bản song ngữ tiếng Anh và tiếng Việt có giá trị pháp lý như nhau, do mỗi bên giữ 01 (một) bản. Trường hợp có cách hiểu khác nhau thì ưu tiên hiểu theo bản tiếng việt.
 This Agreement is made into 02 (two) bilingual originals in English - Vietnamese of equal validity, each Party keeps 01 (one) original.
-In case there are different interpretations, priority should be given to understanding the Vietnamese version.
-
+In case there are different interpretations, priority should be given to understanding the Vietnamese version.]
 
 
 
